@@ -53,5 +53,5 @@ console.log(valor); // 15
 // Escribe una expresion que verifique si un numero es positivo y par
 
 let numero = 8;
-console.log(numero > 0 && numero % 2 === 0); // true
+console.log(numero > 0 && numero % 2 === 0); // true.
 

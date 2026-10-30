@@ -22,7 +22,7 @@ let id = Symbol("id");
 console.log(typeof id); // "symbol"
 
 // object
-let person ={nombre: "Ana", edad: 30}; //object
+let person ={nombre: "Ana", edad: 30}; //object.
 
 //==== Ejercicio 1 ====
 

@@ -5,7 +5,7 @@
 //===const declara constantes cuyo valor no puede cambiar una vez asignado.
 
 
-//==== Ejercicio 1: variables y tipos de datos básicos ====
+//==== Ejercicio 1: variables y tipos de datos básicos. ====
 
 let ciudad = "Madrid";
 let Poblacion = 3300000;

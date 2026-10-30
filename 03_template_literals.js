@@ -42,7 +42,7 @@ let Ciudad = "Medelli";
 
 console.log(`Hola mi nombre es ${Nombre} soy un ${formación} mi numero de ficha es ${ficha} y soy de la ciudad de ${Ciudad}.`)
 
-/* Ejercicio 8: */
+/*  Ejercicio 8: */
 
 let productos = "Cloro";
 let cantidad = 5;

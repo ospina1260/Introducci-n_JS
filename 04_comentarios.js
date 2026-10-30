@@ -16,4 +16,4 @@ function saludar(){
     console.log("Hola, " + nombre);
 }
 
-saludar(); //llamada a la función
+saludar(); //llamada a la función.
